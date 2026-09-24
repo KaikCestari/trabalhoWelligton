@@ -1,0 +1,13 @@
+target/
+.idea/
+
+*.class
+*.jar
+*.war
+*.ear
+
+.mvn/timing.properties
+
+### OS files
+.DS_Store
+Thumbs.db

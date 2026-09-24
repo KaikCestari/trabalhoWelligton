@@ -1,9 +1,0 @@
-/home/kaikdev/Documentos/trabalhoWelligton/src/main/java/br/com/trabalhowelligton/cursos/CadastroCursosApplication.java
-/home/kaikdev/Documentos/trabalhoWelligton/src/main/java/br/com/trabalhowelligton/cursos/config/DataLoader.java
-/home/kaikdev/Documentos/trabalhoWelligton/src/main/java/br/com/trabalhowelligton/cursos/config/WebConfig.java
-/home/kaikdev/Documentos/trabalhoWelligton/src/main/java/br/com/trabalhowelligton/cursos/controller/AuthController.java
-/home/kaikdev/Documentos/trabalhoWelligton/src/main/java/br/com/trabalhowelligton/cursos/controller/CursoController.java
-/home/kaikdev/Documentos/trabalhoWelligton/src/main/java/br/com/trabalhowelligton/cursos/dto/CursoRequest.java
-/home/kaikdev/Documentos/trabalhoWelligton/src/main/java/br/com/trabalhowelligton/cursos/dto/LoginRequest.java
-/home/kaikdev/Documentos/trabalhoWelligton/src/main/java/br/com/trabalhowelligton/cursos/model/Curso.java
-/home/kaikdev/Documentos/trabalhoWelligton/src/main/java/br/com/trabalhowelligton/cursos/repository/CursoRepository.java
